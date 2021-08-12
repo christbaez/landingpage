@@ -1,0 +1,18 @@
+    .landingpage{
+        background: url(../images/modal.jfif) no-repeat center center;
+        background-size:covercontain; 
+        height: 250px;
+    }
+    h1{font-family: 'Lobster', cursive; /*se aplicael cambio de fuente*/}
+    h2{font-family: 'Lobster', cursive; /*se aplicael cambio de fuente*/}
+    h3{font-family: 'Lobster', cursive; /*se aplicael cambio de fuente*/}
+    h5{font-family: 'Lobster', cursive; /*se aplicael cambio de fuente*/}
+
+    body {
+      width: 80%;
+      margin: auto;
+    }
+    .card {
+      padding: 10px;
+      margin: 20px;
+    }
